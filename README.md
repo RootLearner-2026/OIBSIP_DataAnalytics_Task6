@@ -4,7 +4,6 @@
 
 This project focuses on predicting the **quality of wine** based on its chemical properties using **Machine Learning algorithms**. Wine quality prediction helps producers and researchers understand which chemical factors influence wine quality and how machine learning can assist in classification tasks.
 
-This project was completed as part of the **Oasis Infobyte Data Analytics Internship (OIBSIP)**.
 
 ---
 
@@ -123,4 +122,4 @@ Possible improvements for this project include:
 ## 👨‍💻 Author
 
 Narayan
-Data Analytics Intern – Oasis Infobyte
+Research Analyst
